@@ -10,4 +10,4 @@ Watch tutorial on YouTube.
 
 Open index.html in your browser.
 
-gittest
+master
